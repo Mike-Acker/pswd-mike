@@ -5,7 +5,7 @@
 #include <time.h>
 
 /*
-pswd Program specification  :         2019-01-01    w. albert
+pswd Program specification  :         2019-01-01   
 
 Program : pswd is to generate a selection of character strings composed of randomly selected characters
 suitable for use as computer passwords.
